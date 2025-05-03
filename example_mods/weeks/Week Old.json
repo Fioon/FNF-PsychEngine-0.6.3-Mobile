@@ -1,0 +1,106 @@
+{
+	"storyName": "Save Mickey from his Low Sanity",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "demo",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Repentance Old",
+			"icon-phase1",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Repentance Older",
+			"icon-phase1",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Craziness Old",
+			"icon-phase2",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Craziness Older",
+			"icon-phase2",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Bummed Old",
+			"icon-phase1-pixel",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Hemophobia Old",
+			"icon-phase2-pixel",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Hemophobia Older",
+			"icon-phase2-pixel",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Melancholy Old",
+			"icon-phase2",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Melancholy Older",
+			"icon-phase2",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Glitcher Original",
+			"icon-phase3",
+			[
+				120,
+				120,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"Mouse",
+		"Legs"
+	],
+	"weekName": "Fucking Demo"
+}

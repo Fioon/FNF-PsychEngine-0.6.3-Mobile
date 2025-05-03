@@ -1,0 +1,34 @@
+{
+	"storyName": "Save Mickey from his Low Sanity",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "demo2",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Bummed",
+			"icon-phase1-pixel",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Hemophobia",
+			"icon-phase2-pixel",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"MousePixel",
+		"BlueBoyPixel"
+	],
+	"weekName": "Fucking Demo"
+}

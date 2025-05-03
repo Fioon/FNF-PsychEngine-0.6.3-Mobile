@@ -1,0 +1,43 @@
+{
+	"storyName": "Save Mickey from his Low Sanity",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "demo",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Repentance",
+			"icon-phase1",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Craziness",
+			"icon-phase2",
+			[
+				120,
+				120,
+				120
+			]
+		],
+		[
+			"Homicide",
+			"icon-Homicide Mouse",
+			[
+				120,
+				120,
+				120
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"Mouse",
+		"BlueBoy"
+	],
+	"weekName": "Fucking Demo"
+}

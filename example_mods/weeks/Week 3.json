@@ -1,0 +1,34 @@
+{
+	"storyName": "Save Mickey from his Low Sanity",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "demo3",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Unhappy",
+			"real kill/icon-FlipaClip1",
+			[
+				80,
+				80,
+				80
+			]
+		],
+		[
+			"Happy",
+			"real kill/icon-FlipaClip2",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"MouseFC",
+		"BlueBoy"
+	],
+	"weekName": "Fucking Demo"
+}

@@ -1,0 +1,25 @@
+{
+	"storyName": "Save Mickey from his Low Sanity",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "demo",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Hellhole Redo",
+			"icon-Homicide Mouse and Lucifer",
+			[
+				120,
+				120,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"Mouse",
+		"BlueBoy"
+	],
+	"weekName": "Fucking Demo"
+}
