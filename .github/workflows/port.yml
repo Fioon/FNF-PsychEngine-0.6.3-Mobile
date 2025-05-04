@@ -49,5 +49,4 @@ jobs:
         uses: actions/upload-artifact@main
         with:
           name: Psych Engine
-          path: export/release/android/bin/app/build/outputs/apk/debug
-          if-no-files-found: error
+          path: export/release/android/bin/app/build/outputs/apk/release
