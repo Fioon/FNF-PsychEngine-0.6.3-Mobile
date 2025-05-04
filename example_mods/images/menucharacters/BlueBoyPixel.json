@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BFIdle",
+	"confirm_anim": "BFHey",
+	"position": [
+		20,
+		-182
+	],
+	"scale": 3.55,
+	"flipX": false,
+	"image": "BF Pixel"
+}

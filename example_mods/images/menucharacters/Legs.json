@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "HEY instance",
+	"idle_anim": "idle",
+	"position": [
+		40,
+		28
+	],
+	"scale": 0.6,
+	"image": "GF",
+	"flipX": false
+}

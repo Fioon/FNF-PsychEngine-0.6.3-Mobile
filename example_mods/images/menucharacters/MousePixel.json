@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Idle",
+	"confirm_anim": "Left",
+	"position": [
+		700,
+		190
+	],
+	"scale": 0.45,
+	"flipX": false,
+	"image": "Mickey Pixel"
+}

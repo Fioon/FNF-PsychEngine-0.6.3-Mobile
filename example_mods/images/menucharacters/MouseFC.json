@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Left",
+	"idle_anim": "Idle",
+	"position": [
+		750,
+		170
+	],
+	"scale": 0.55,
+	"image": "Mickey FC",
+	"flipX": false
+}
