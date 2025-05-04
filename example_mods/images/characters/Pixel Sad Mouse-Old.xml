@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pixel Sad Mouse.png">
+<SubTexture name="Idle0000" x="692" y="0" width="344" height="587" frameX="-489" frameY="-128" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Idle0001" x="1738" y="0" width="354" height="574" frameX="-479" frameY="-141" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Idle0002" x="1392" y="0" width="346" height="576" frameX="-487" frameY="-139" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Idle0003" x="344" y="608" width="344" height="586" frameX="-489" frameY="-129" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Idle0004" x="692" y="0" width="344" height="587" frameX="-489" frameY="-128" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Left0000" x="1036" y="0" width="356" height="587" frameX="-474" frameY="-128" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Left0001" x="339" y="0" width="353" height="592" frameX="-484" frameY="-123" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Down0000" x="0" y="1195" width="351" height="567" frameX="-487" frameY="-148" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Down0001" x="1738" y="574" width="350" height="573" frameX="-489" frameY="-142" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Up0000" x="0" y="0" width="339" height="608" frameX="-490" frameY="-107" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Up0001" x="0" y="608" width="344" height="587" frameX="-489" frameY="-128" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Right0000" x="1038" y="608" width="352" height="583" frameX="-497" frameY="-133" frameWidth="1280" frameHeight="720" />
+<SubTexture name="Right0001" x="688" y="608" width="350" height="585" frameX="-492" frameY="-131" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
