@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ha ha, ha, GUN.png"><SubTexture name="Ha ha, ha, GUN idle0000" x="537" y="0" width="802" height="649" frameX="0" frameY="-5" frameWidth="996" frameHeight="654" />
+<SubTexture name="Ha ha, ha, GUN idle0001" x="0" y="0" width="537" height="654" frameX="-11" frameY="0" frameWidth="996" frameHeight="654" />
+</TextureAtlas>
