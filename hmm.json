@@ -16,7 +16,7 @@
       "name": "extension-androidtools",
       "type": "git",
       "ref": "main",
-      "url": "https://github.com/JuniorNovoa1/extension-androidtools"
+      "url": "https://github.com/LimeExtensions/extension-androidtools"
     },
     {
       "name": "flixel",
