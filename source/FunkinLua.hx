@@ -58,8 +58,8 @@ import Discord;
 #end
 
 #if android
-import extension.androidtools.widget.Toast as AndroidToast;
-import extension.androidtools.Tools as AndroidTools;
+import android.widget.Toast as AndroidToast;
+import android.Tools as AndroidTools;
 //import android.os.BatteryManager as AndroidBatteryManager;
 import android.PsychJNI;
 #end
